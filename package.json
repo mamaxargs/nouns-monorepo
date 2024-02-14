@@ -11,6 +11,7 @@
     "format": "NODE_OPTIONS=--max_old_space_size=16384 prettier --write 'packages/**/*.{ts(x)?,sol,md,css,json}' '!**/typechain/**'"
   },
   "devDependencies": {
+"@babel/plugin-proposal-private-property-in-object": "^7.21.11", 
     "@types/chai": "^4.2.15",
     "@types/mocha": "^8.2.2",
     "@types/node": "^14.14.34",
