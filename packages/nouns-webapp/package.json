@@ -62,6 +62,7 @@
     "redux-devtools-extension": "^2.13.9",
     "remark-breaks": "^3.0.1",
     "web-vitals": "^1.0.1"
+"@babel/plugin-proposal-private-property-in-object": "^7.21.11",
   },
   "devDependencies": {
 "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
